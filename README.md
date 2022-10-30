@@ -1,4 +1,4 @@
-# Semantic-Segmentation-of-Satellite-Imagery
+# Environment Setup
 How to Open NNI’s Web UI on Google Colab <br>
 Install required packages and softwares.
 
